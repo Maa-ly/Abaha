@@ -1,4 +1,3 @@
-# ETH-Belgrade-Hackathon
 
 
 #About
